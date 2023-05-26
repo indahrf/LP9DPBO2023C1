@@ -8,7 +8,7 @@ Saya Indah Resti Fauzi dengan NIM 2103507 mengerjakan Latihan Praktikum 9 DPBO d
 1. Ketika program di jalankan akan masuk ke landing page, jika buttong pada landing page di klik maka akan diarahkan ke page daftar residen
 2. Daftar residen ditampilkan secara ascending berdasarkan nama
     - Button detail: menampilkan data detail dari nama residen yang dipilih
-    - Button ubah urutan : membuka page baru dengan data yang disorting secara descending berdasarkan nama residen
+    - Button ubah urutan : membuka page baru dengan data yang disorting secara descending berdasarkan nama residen (tambahan 1 metode)
     - Button close : menutup page
 3. Page detail menampilan foto dan data detail dari residen yang dipilih, jika menekan tombol close maka page akan ditutup
 
@@ -33,3 +33,7 @@ Saya Indah Resti Fauzi dengan NIM 2103507 mengerjakan Latihan Praktikum 9 DPBO d
 ===RECORD===
 
 https://github.com/indahrf/LP9DPBO2023C1/assets/99266430/ed94af6c-a9ae-4fd4-a5c2-a89c95f1be9c
+
+===BUKTI SS COBA DATABASE===
+
+![Screenshot 2023-05-26 164218](https://github.com/indahrf/LP9DPBO2023C1/assets/99266430/f74d8ab3-d97a-4ede-a3a3-490c79cebafe)
